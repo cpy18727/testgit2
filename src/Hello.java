@@ -4,6 +4,8 @@ public class Hello {
     //String name;
     //String age;
 
-
+    // 超人在分支b1上的设置
+    // String nameb1
+    // String ageb1
 
 }
