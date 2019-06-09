@@ -5,4 +5,7 @@ public class badman {
     //海王
     //钢骨
 
+
+    //超人第二次设置
+    // 沙赞
 }
